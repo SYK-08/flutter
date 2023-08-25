@@ -32,11 +32,11 @@ Before you get started, we encourage you to read these documents which describe 
 2. [Values](https://github.com/flutter/flutter/wiki/Values),
    which talks about what we care most about.
 
-Helping out in the issue database
+Helping out with the issue database
 ---------------------------------
 
 Triage is the process of going through bug reports and determining if they are valid, finding out
-how to reproduce them, catching duplicate reports, and generally making our issues list
+how to reproduce them, catch duplicate reports, and generally make our issues list
 useful for our engineers.
 
 If you want to help us triage, you are very welcome to do so!
